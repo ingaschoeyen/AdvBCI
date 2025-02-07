@@ -14,7 +14,7 @@ This repository contains the code of Group 1 for the assignments of SOW-MKI74 Ad
 
 ## Assignments
 
-Assignment 2: Implementing the LDA with Shrinkage Optimisation from [Blankertz et al. 2011](https://www.sciencedirect.com/science/article/pii/S1053811910009067?via%3Dihub)[Link to Assignment 2](ass2.ipynb) 
+[Assignment 2](ass2.ipynb): Implementing the LDA with Shrinkage Optimisation from [Blankertz et al. 2011](https://www.sciencedirect.com/science/article/pii/S1053811910009067?via%3Dihub)
 
 Assignment 3: tba
 
